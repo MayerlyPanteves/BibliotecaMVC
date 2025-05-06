@@ -82,7 +82,8 @@ La aplicación iniciará mostrando la pantalla principal desde donde podrás nav
 - Interfaz intuitiva: Navegación sencilla entre las diferentes secciones
 
 ## Diagrama de Clases Simplificado
-```ElementoBiblioteca
+```
+ElementoBiblioteca
       ↑
 ┌─────┼─────┐
 │     │     │
