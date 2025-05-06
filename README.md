@@ -114,4 +114,5 @@ LibroDAO RevistaDAO DVDDAO
 - 100MB de espacio en disco duro
 
 ## Para soporte
+- Para soporte `joseluis836ps@gmail.com`
 - Para ver mas proyectos revise github `joseluis1061`
