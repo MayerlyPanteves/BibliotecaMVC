@@ -70,7 +70,7 @@ public class DialogoAgregarElemento extends JDialog {
 
         JLabel lblAno = new JLabel("Año:");
         int anoActual = Calendar.getInstance().get(Calendar.YEAR);
-        spnAno = new JSpinner(new SpinnerNumberModel(anoActual, 1900, anoActual, 1));
+        spnAno = new JSpinner(new SpinnerNumberModel(anoActual, 1000, anoActual, 1));
 
         // Agregar campos comunes
         gbc.gridx = 0;
